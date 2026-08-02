@@ -1,0 +1,20 @@
+Tool of the Day
+NoteGPT
+
+Chrome Extension
+
+NoteGPT helps summarize YouTube videos, articles, PDFs, and web content using AI, making learning faster and more efficient.
+
+How to set up NoteGPT
+1
+Open the Chrome Web Store link.
+2
+Click 'Add to Chrome'.
+3
+Pin the extension to your browser toolbar.
+4
+Open a YouTube video.
+5
+Use NoteGPT to generate summaries and notes.
+6
+Explore AI-powered learning features.
